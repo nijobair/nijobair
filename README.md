@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&center=true&vCenter=true&width=750&height=80&duration=5000&lines=Hi+There!+👋+Welcome+to+my+profile+💐;+I'm+Nazmul+Islam!;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst and Python Developer</h3>
+<h3 align="center">A passionate Data Analyst and Physics Lover</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **OOP in Python**
 
-💬 Ask me about **MS Excel, Power Query, Data Visualization, Python... or anything [here](https://github.com/NIJ69/NIJ69/issues)**
+💬 Ask me about **MS Excel, Power Query, Data Visualization, Python... or anything [here](https://github.com/nijobair/nijobair/issues)**
 
 ⚡ Fun fact **Let me think....**
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NIJ69/NIJ69/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nijobair/nijobair/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,14 +57,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NIJ69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nijobair&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIJ69&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijobair&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIJ69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Programming Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijobair&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Programming Languages">
 
 <h2> GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=NIJ69&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=nijobair&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <br/><br/>
